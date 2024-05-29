@@ -1,0 +1,123 @@
+# Ignore arquivos de build
+bin/
+obj/
+
+# Ignore arquivos de pacote
+*.nupkg
+*.snupkg
+*.nuspec
+
+# Ignore logs
+*.log
+
+# Ignore arquivos de usuário e IDE
+.vscode/
+.vscode/*.*
+.idea/
+.idea/*.*
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore arquivos de configuração do Visual Studio Code
+.vscode/
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+.vscode/extensions.json
+.vscode/*.code-workspace
+
+# Ignore arquivos de lock do Visual Studio
+*.vscode
+
+# Ignore arquivos temporários do Visual Studio
+*.dbmdl
+*.jfm
+
+# Ignore arquivos temporários do VS for Mac
+.vscode
+
+# Ignore arquivos de depuração e trace
+*.tss
+*.twc
+
+# Ignore diretórios e arquivos criados por ferramentas
+_rels/
+*.rels
+*.tmp
+
+# Ignore arquivos gerados pelo compilador
+*.exe
+*.dll
+*.pdb
+*.cache
+*.ilk
+*.log
+*.lib
+*.ncb
+*.obj
+*.sbr
+*.tlb
+*.tlh
+*.tmp
+*.csproj.user
+*.csproj.vspscc
+*.csproj.vssscc
+*.vbproj.user
+*.vbproj.vspscc
+*.vbproj.vssscc
+*.pdb
+*.aps
+*.pch
+*.vspscc
+*.vssscc
+build/
+*_i.c
+*_p.c
+*_i.h
+*.ilk
+*.meta
+*.obj
+*.pyc
+*.dir
+*.sdf
+*.pyproj
+*.tmp_proj
+*.log
+*.vspscc
+*.vssscc
+.vscode/
+
+# Ignore arquivos de backup
+*.bak
+*.swp
+*~
+.*.swp
+.*~
+
+# Ignore arquivos de cache
+.idea/
+.idea/*
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/libraries
+.idea/.name
+.idea/misc.xml
+.idea/modules.xml
+.idea/project.xml
+.idea/vcs.xml
+
+# Ignore dependências locais
+packages/
+*.nupkg
+*.nuspec
+
+# Ignore arquivos de configuração do sistema
+.vs/
+.vscode/
+.vscode/*.*
+
+# Ignore arquivos de workspace do Visual Studio Code
+*.code-workspace
